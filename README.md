@@ -35,6 +35,6 @@ The optimizer used is stochastic gradient descent (SGD) with momentum. A constan
 ![UNet result](https://user-images.githubusercontent.com/81757215/114264380-29be5280-9a1d-11eb-8a98-ff240b709f4c.JPG)
 
 ### Metrics
-![Result](https://user-images.githubusercontent.com/81757215/114264445-9a656f00-9a1d-11eb-9370-ecc479825f86.JPG)
+FCN has a pixel accuracy, mean accuracy and mean IOU of 78.7 %, 68.2 % and 55.8 % respectively while U-Net has a pixel accuracy, mean accuracy and mean IOU of 67.1 %, 57 % and 44.1 % respectively
 
 
